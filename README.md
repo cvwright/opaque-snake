@@ -4,12 +4,6 @@ Python bindings for the OPAQUE password-authenticated key exchange protocol.
 
 OPAQUE is an asymmetric password-authenticated key exchange (aPAKE) protocol that enables secure password-based authentication without exposing plaintext credentials to the server. This library wraps the Rust [opaque-ke](https://github.com/facebook/opaque-ke) implementation.
 
-## Installation
-
-```bash
-pip install opaque-snake
-```
-
 ## Quick Start
 
 ### Registration
