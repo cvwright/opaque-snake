@@ -24,6 +24,9 @@ classifiers = [
 ]
 keywords = ["opaque", "pake", "authentication", "cryptography", "password"]
 
+[project.urls]
+Repository = "https://github.com/cvwright/opaque-snake"
+
 [project.optional-dependencies]
 dev = ["pytest>=7.0", "pytest-cov", "mypy"]
 
