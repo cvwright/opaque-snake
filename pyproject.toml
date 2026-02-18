@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "Pythonic OPAQUE password-authenticated key exchange"
 readme = "README.md"
 license = { text = "MIT OR Apache-2.0" }
-license-files = "LICENSE-*"
+license-files = ["LICENSE-*"]
 requires-python = ">=3.9"
 classifiers = [
     "Development Status :: 4 - Beta",
